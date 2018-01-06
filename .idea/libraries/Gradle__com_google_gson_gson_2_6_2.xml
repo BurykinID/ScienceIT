@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.gson:gson:2.6.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not find com.google.gson:gson:2.6.2." />
+      <root url="jar://$PROJECT_DIR$/gson-2.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

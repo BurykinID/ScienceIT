@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScienceIT.iml" filepath="$PROJECT_DIR$/.idea/modules/ScienceIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bot_ScienceIT/.idea/modules/ScienceIT_main.iml" filepath="$PROJECT_DIR$/../Bot_ScienceIT/.idea/modules/ScienceIT_main.iml" group="ScienceIT" />
+      <module fileurl="file://$PROJECT_DIR$/../Bot_ScienceIT/.idea/modules/ScienceIT_test.iml" filepath="$PROJECT_DIR$/../Bot_ScienceIT/.idea/modules/ScienceIT_test.iml" group="ScienceIT" />
+    </modules>
+  </component>
+</project>
